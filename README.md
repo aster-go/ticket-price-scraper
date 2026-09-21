@@ -40,7 +40,7 @@ Easily deployable in Docker, which is how I do.
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/bailey2k/ticket-price-scraper.git
+git clone https://github.com/aster-go/ticket-price-scraper.git
 cd ticket-price-scraper
 ```
 
@@ -132,4 +132,4 @@ Leave me a star or submit a PR if you'd like to. Anything is welcome.
 
 ---
 
-> Made with love by [@bailey2k](https://github.com/bailey2k)
+> Made with love by [@aster-go](https://github.com/aster-go)
